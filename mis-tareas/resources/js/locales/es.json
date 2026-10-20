@@ -1,0 +1,21 @@
+{
+  "tasks": {
+    "heading": "Mis Entregables",
+    "subtitle": "Organiza tus actividades fácilmente",
+    "placeholder": "Escribe una nueva tarea...",
+    "add": "Agregar tarea",
+    "pending": "Pendiente",
+    "completed": "Completada",
+    "empty": "Todavía no tienes tareas registradas.",
+    "confirmDelete": "¿Estás seguro de eliminar esta tarea?",
+    "delete": "Eliminar",
+    "saveError": "No se pudo guardar la tarea.",
+    "loadError": "No se pudieron cargar las tareas.",
+    "updateError": "No se pudo actualizar la tarea.",
+    "deleteError": "No se pudo eliminar la tarea.",
+    "required": "Debes escribir un título válido.",
+    "tooLong": "El título no puede superar 255 caracteres.",
+    "loading": "Cargando tareas...",
+    "saving": "Guardando..."
+  }
+}
