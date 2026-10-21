@@ -24,6 +24,7 @@
 - [ ] Comprobar funcionamiento en móvil y computadora.
 
 ## Fase 4: Verificación y entrega
+- [x] Configurar y verificar el acceso local mediante http://mis-tareas.test.
 - [ ] Crear dos pruebas automatizadas en Laravel.
 - [ ] Ejecutar php artisan test.
 - [ ] Ejecutar npm.cmd run build.

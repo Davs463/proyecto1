@@ -6,6 +6,9 @@ Desarrollar una aplicación web sencilla para administrar tareas personales, per
 ## Alcance
 La aplicación permitirá crear, listar, actualizar y eliminar tareas. No incluirá autenticación, usuarios múltiples ni despliegue en producción.
 
+## Acceso local
+La aplicación debe poder abrirse en este equipo mediante `http://mis-tareas.test`, con resolución local en Windows y un servidor de desarrollo en el puerto 80. Este nombre no implica un despliegue público.
+
 ## Tecnologías
 - Backend: PHP con Laravel.
 - Frontend: Vue 3.
